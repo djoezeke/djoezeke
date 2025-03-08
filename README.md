@@ -168,14 +168,14 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 ### 📌 Personal
 
 <p>
-  <a href="https://github.com/djoezeke/">
+  <a href="https://github.com/djoezeke/myargs">
     <img width=""
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=djoezeke&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=myargs&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
-  <a href="https://github.com/djoezeke/template">
+  <a href="https://github.com/djoezeke/celog">
     <img width=""
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=template&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=celog&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
       alt="Cora" />
   </a>
 </p>
