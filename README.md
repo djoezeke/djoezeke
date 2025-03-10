@@ -42,7 +42,7 @@
   🚀<b>Interests:</b> Game/Web Development, Algorithms, Open-Source Contributions
 </p>
 
-<img height="200px" src='./assets/monkeykidcoding.gif' align='left'>
+<img height="200px" src='./assets/gif/monkeykidcoding.gif' align='left'>
 
 - :school: I'm a Computer Science Student at Accra Technical University
 - 🔭 I’m currently working on **Graphics Development**
@@ -110,7 +110,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3>Tools</h3>
+      <h3>🧰Toolbox</h3>
       <div align="center">
         <a href="https://www.linux.org/" target="_blank">
           <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
@@ -268,11 +268,12 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 </picture>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sackeyetrue&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=djoezeke&&style=flat-square" align="center" />
 </div>
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<!-- ✏️  Blog posts -->
 
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <h2>📜 Resume & Additional Links</h2>
