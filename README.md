@@ -43,8 +43,7 @@
 </p>
 
 <img src='./assets/monkeykidcoding.gif' align='left'>
-<!-- <p align="right" style="margin-top: 10px;"> -->
-<b>📌 Quick Facts:</b>
+
 - :school: I'm a Computer Science Student at Accra Technical University
 - 🔭 I’m currently working on **Graphics Development**
 - :neutral_face: I have a **love** relationship with **Programming**
@@ -52,7 +51,6 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Maker** **Coder**, Leader** and **Hearted**
-<!-- </p> -->
 
 <br>
 <p>
