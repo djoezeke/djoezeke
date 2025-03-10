@@ -42,13 +42,17 @@
   🚀<b>Interests:</b> Game/Web Development, Algorithms, Open-Source Contributions
 </p>
 
-<ul>
-  <li>🔭 I’m currently working on <a href="link">name</a></li>
-  <li>🌱 I’m currently learning <a href="link">name</a></li>
-  <li>👯 I’m looking to collaborate on <a href="link">name</a></li>
-  <li>🤔 I’m looking for help with <a href="link">name</a></li>
-  <li>💬 Ask me about <a href="link">name</a></li>
-</ul>
+<img height="250px" src='./assets/monkeykidcoding.gif' align='left'>
+
+- :school: I'm a Computer Science Student at Accra Technical University
+- 🔭 I’m currently working on **Graphics Development**
+- :neutral_face: I have a **love** relationship with **Programming**
+- 🌱 I’m currently Working with my self **Opengl**
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- :bulb: Occasionally I do participate in **Hackathons**
+- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 
 <p>
   <b>Contact:</b>
