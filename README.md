@@ -42,18 +42,19 @@
   🚀<b>Interests:</b> Game/Web Development, Algorithms, Open-Source Contributions
 </p>
 
-<img height="250px" src='./assets/monkeykidcoding.gif' align='left'>
-
+<img src='./assets/monkeykidcoding.gif' align='left'>
+<!-- <p align="right" style="margin-top: 10px;"> -->
+<b>📌 Quick Facts:</b>
 - :school: I'm a Computer Science Student at Accra Technical University
 - 🔭 I’m currently working on **Graphics Development**
 - :neutral_face: I have a **love** relationship with **Programming**
 - 🌱 I’m currently Working with my self **Opengl**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionally I do participate in **Hackathons**
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
+- 😄 Pronouns: **Maker** **Coder**, Leader** and **Hearted**
+<!-- </p> -->
 
+<br>
 <p>
   <b>Contact:</b>
   <a href="mailto:">sakeyetrue@gmail.com</a>
