@@ -42,7 +42,7 @@
   🚀<b>Interests:</b> Game/Web Development, Algorithms, Open-Source Contributions
 </p>
 
-<img src='./assets/monkeykidcoding.gif' align='left'>
+<img height="200px" src='./assets/monkeykidcoding.gif' align='left'>
 
 - :school: I'm a Computer Science Student at Accra Technical University
 - 🔭 I’m currently working on **Graphics Development**
@@ -52,11 +52,12 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Maker** **Coder**, Leader** and **Hearted**
 
-<br>
 <p>
   <b>Contact:</b>
   <a href="mailto:">sakeyetrue@gmail.com</a>
 </p>
+
+<br>
 
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
