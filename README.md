@@ -42,15 +42,17 @@
 </p>
 
 <p>
-<img height="200px" src='./assets/gif/monkeykidcoding.gif' align='left'>
+  <img src='./assets/gif/monkeykidcoding.gif' align='left'>
+  <br>
   <li>🏫 I'm a Computer Science Student at Accra Technical University</li>
   <li>🔭 I’m currently working on <b>Graphics Development</b></li>
   <li>I have a ❤️<b>love</b> relationship with <b>Programming</b></li>
-<li>🌱 I’m currently Working with my self <b>OpenGL</b></li>
-<li>🤔 I’m looking for help with Data Structures and Algorithms 😭</li>
-<li>💬 Ask me about anything, I am happy to help</li>
-<li>😄 Pronouns: <b>Maker</b> ,<b>Leader</b> and a <b>Coder</b></li>
-
+  <li>🌱 I’m currently Working with my self <b>OpenGL</b></li>
+  <li>🤔 I’m looking for help with Data Structures and Algorithms 😭</li>
+  <li>💬 Ask me about anything, I am happy to help</li>
+  <li>😄 Pronouns: <b>Maker</b> ,<b>Leader</b> and a <b>Coder</b></li>
+  
+<br>
 </p>
 
 <p>
