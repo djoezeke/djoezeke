@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
-<h1>👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora) </h1>
+<h1 align="center">👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora) </h1>
 <hr>
 <div align="center">
   <h3>🚀 Software Engineer | 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)</h3>
@@ -224,7 +224,7 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/djoezeke">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=300&hide_border=true&theme=transparent" />
 </a>
 
 <h3>🏆 GitHub Trophies</h3>
