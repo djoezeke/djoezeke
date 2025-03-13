@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora) </h1>
-<hr>
 <div align="center">
   <h3>🚀 Software Engineer | 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)</h3>
 </div>
