@@ -42,15 +42,17 @@
   🚀<b>Interests:</b> Game/Web Development, Algorithms, Open-Source Contributions
 </p>
 
+<p>
 <img height="200px" src='./assets/gif/monkeykidcoding.gif' align='left'>
+  <li>🏫 I'm a Computer Science Student at Accra Technical University</li>
+  <li>🔭 I’m currently working on <b>Graphics Development</b></li>
+  <li>I have a ❤️<b>love</b> relationship with <b>Programming</b></li>
+<li>🌱 I’m currently Working with my self <b>OpenGL</b></li>
+<li>🤔 I’m looking for help with Data Structures and Algorithms 😭</li>
+<li>💬 Ask me about anything, I am happy to help</li>
+<li>😄 Pronouns: <b>Maker</b> ,<b>Leader</b> and a <b>Coder</b></li>
 
-- :school: I'm a Computer Science Student at Accra Technical University
-- 🔭 I’m currently working on **Graphics Development**
-- :neutral_face: I have a **love** relationship with **Programming**
-- 🌱 I’m currently Working with my self **Opengl**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Maker** **Coder**, Leader** and **Hearted**
+</p>
 
 <p>
   <b>Contact:</b>
@@ -177,13 +179,15 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <h2>🗂️ Featured Projects </h2>
 <h3>📌 Personal</h3>
+
 <p align="center">
-  <a href="https://github.com/djoezeke/cprofiler">
+      <a href="https://github.com/djoezeke/cprofiler">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=cprofiler&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
           alt="Cora" />
       </a>
-      <a href="https://github.com/djoezeke/GLFWTem">
+    
+<a href="https://github.com/djoezeke/GLFWTem">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=GLFWTem&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
           alt="Cora" />
@@ -250,6 +254,13 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- ✏️  Blog posts -->
 
 <!-- ------------------------------------------------------------------------------------------------------------ -->
+<h3>🙋‍♂️ More About Me</h3>
+
+- 🥖 I'm Ghanaian! And I love Music 🎶 
+- 👨‍💻 You can take a look at my portfolio and my background by visiting my website [djoezeke.com]()
+- 📫 You can contact me at **sackeyetrue@gmail.com**
+- 🎈 Fun fact: *I love building things*
+
 <h2>📜 Resume & Additional Links</h2>
 
 <a href="http://">📄 Resume</a>
