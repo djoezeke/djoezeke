@@ -177,25 +177,17 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <h2>🗂️ Featured Projects </h2>
 <h3>📌 Personal</h3>
-<p>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/djoezeke/myargs">
+<p align="center">
+  <a href="https://github.com/djoezeke/cprofiler">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=myargs&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=cprofiler&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
           alt="Cora" />
       </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/djoezeke/celog">
+      <a href="https://github.com/djoezeke/GLFWTem">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=celog&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=GLFWTem&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
           alt="Cora" />
       </a>
-    </td>
-  </tr>
-</table>
 </p>
 
 <p align="center">
@@ -206,25 +198,18 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 </p>
 
 <h3>📌 Public</h3>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/djoezeke/pugixml">
-        <img
+<p align="center">
+  <a href="https://github.com/djoezeke/pugixml">
+    <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=pugixml&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
           alt="Cora" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/djoezeke/first-contributions">
-        <img
+  </a>
+  <a href="https://github.com/djoezeke/first-contributions">
+    <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=first-contributions&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
           alt="Cora" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/djoezeke?tab=repositories&q=&type=fork&language=&sort=stargazers">
     <img alt="All Repositories" title="All Repositories"
@@ -235,24 +220,6 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <h2>📈 GitHub Stats & History</h2>
-<!-- <table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/djoezeke">
-        <img align="center" alt="Djoezeke GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=djoezeke&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/djoezeke">
-        <img align="center" alt="Djoezeke GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=djoezeke&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-      </a>
-    </td>
-
-  </tr>
-</table>
- -->
 <a href="https://github.com/djoezeke">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
 </a>
