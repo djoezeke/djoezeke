@@ -235,7 +235,7 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <h2>📈 GitHub Stats & History</h2>
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/djoezeke">
@@ -252,6 +252,13 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 
   </tr>
 </table>
+ -->
+<a href="https://github.com/djoezeke">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
+</a>
+<a href="https://github.com/djoezeke">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
+</a>
 
 <h3>🏆 GitHub Trophies</h3>
 
