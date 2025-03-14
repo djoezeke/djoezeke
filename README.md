@@ -29,42 +29,37 @@
       height="25" alt="djoezeke | Twitter" /> </a>
 </div>
 
-<p>
-  Welcome to my GitHub portfolio! Here, you'll find projects that showcase my skills in software development,
-  problem-solving, and algorithm design.
-</p>
+Welcome to my GitHub portfolio! Here, you'll find projects that showcase my skills in software development,
+problem-solving, and algorithm design.
 
-<h4> 👨🏻‍💻 About Me</h4>
-<p>
-  🎓<b>Education:</b> Computer Science Student at Accra Technical University
-  <br>
-  🚀<b>Interests:</b> Game/Web Development, Algorithms, Open-Source Contributions
-</p>
+#### 👨🏻‍💻 About Me
 
-<p>
-  <img src='./assets/gif/monkeykidcoding.gif' align='left'>
-  <br>
-  <li>🏫 I'm a Computer Science Student at Accra Technical University</li>
-  <li>🔭 I’m currently working on <b>Graphics Development</b></li>
-  <li>I have a ❤️<b>love</b> relationship with <b>Programming</b></li>
-  <li>🌱 I’m currently Working with my self <b>OpenGL</b></li>
-  <li>🤔 I’m looking for help with Data Structures and Algorithms 😭</li>
-  <li>💬 Ask me about anything, I am happy to help</li>
-  <li>😄 Pronouns: <b>Maker</b> ,<b>Leader</b> and a <b>Coder</b></li>
-  
-<br>
-</p>
+🎓**Education:** Computer Science Student at Accra Technical University
+🚀**Interests:** Game/Web Development, Algorithms, Open-Source Contributions
 
-<p>
-  <b>Contact:</b>
-  <a href="mailto:">sakeyetrue@gmail.com</a>
-</p>
+<img src='./assets/gif/monkeykidcoding.gif' align='left'>
 
-<br>
+- 🏫 I'm a Computer Science Student at Accra Technical University
+- 🔭 I’m currently working on **Graphics Development**
+- I have a ❤️**love** relationship with **Programming**
+- 🌱 I’m currently Working with my self **OpenGL**
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
+- 🏫 I'm a Computer Science Student at Accra Technical University
+- 🔭 I’m currently working on **Graphics Development**
+- I have a ❤️**love** relationship with **Programming**
+- 🌱 I’m currently Working with my self **OpenGL**
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
+- 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
 
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
-<h2 align="left">Languages and Tools</h2>
+
+## 🔥 Languages and Tools
+
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -160,39 +155,42 @@
 
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
-<h2>🔥 Activities</h2>
 
-<h3>📊 <b>This week i spent my time on:</b></h3>
+## 🔥 Activities
+
+### 📊 **This week i spent my time on:**
 
 ```txt
-C/C++ 16 hrs 3 mins ███████████████████▓░░░░░ 78.42 %
-Python 3 hrs 58 mins █████░░░░░░░░░░░░░░░░░░░░ 19.42 %
-JSON 11 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░ 00.91 %
-Bash 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.66 %
-HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.38 %
+C ------------- 16 hrs 03 mins : ███████████████████▓░░░░░░░░░░ 78.42 %
+C++ ----------- 03 hrs 58 mins : █████░░░░░░░░░░░░░░░░░░░░░░░░░ 19.42 %
+Python -------- 03 hrs 58 mins : █████░░░░░░░░░░░░░░░░░░░░░░░░░ 19.42 %
+HTML ---------- 00 hrs 11 mins : ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 00.91 %
+Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 00.38 %
 ```
 
-<h3>📊 <b>Working</b></h3>
+### 📊 **Working**
 
-<h3>📊 <b>Trending</b></h3>
+### 📊 **Trending**
 
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
-<h2>🗂️ Featured Projects </h2>
-<h3>📌 Personal</h3>
+
+## 🗂️ Featured Projects </h2>
+
+### 📌 Personal
 
 <p align="center">
-      <a href="https://github.com/djoezeke/cprofiler">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=cprofiler&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-          alt="Cora" />
-      </a>
-    
-<a href="https://github.com/djoezeke/GLFWTem">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=GLFWTem&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-          alt="Cora" />
-      </a>
+  <a href="https://github.com/djoezeke/cprofiler">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=cprofiler&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
+
+  <a href="https://github.com/djoezeke/GLFWTem">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=GLFWTem&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
+  </a>
 </p>
 
 <p align="center">
@@ -202,17 +200,18 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-<h3>📌 Public</h3>
+### 📌 Public
+
 <p align="center">
   <a href="https://github.com/djoezeke/pugixml">
     <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=pugixml&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-          alt="Cora" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=pugixml&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
   </a>
   <a href="https://github.com/djoezeke/first-contributions">
     <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=first-contributions&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-          alt="Cora" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=first-contributions&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+      alt="Cora" />
   </a>
 </p>
 <p align="center">
@@ -224,15 +223,19 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
 
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
-<h2>📈 GitHub Stats & History</h2>
+
+## 📈 GitHub Stats & History
+
 <a href="https://github.com/djoezeke">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
+  <img height=200 align="center"
+    src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/djoezeke">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=300&hide_border=true&theme=transparent" />
+  <img height=200 align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=300&hide_border=true&theme=transparent" />
 </a>
 
-<h3>🏆 GitHub Trophies</h3>
+### 🏆 GitHub Trophies
 
 <img width="100%"
   src="https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=4">
@@ -250,27 +253,21 @@ HTML 4 mins ░░░░░░░░░░░░░░░░░░░░░░�
   <img src="https://komarev.com/ghpvc/?username=djoezeke&&style=flat-square" align="center" />
 </div>
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-<!-- ✏️  Blog posts -->
-
 <!-- ------------------------------------------------------------------------------------------------------------ -->
-<h3>🙋‍♂️ More About Me</h3>
 
-- 🥖 I'm Ghanaian! And I love Music 🎶 
-- 👨‍💻 You can take a look at my portfolio and my background by visiting my website [djoezeke.com]()
+### 🙋‍♂️ More About Me
+
+- 🥖 I'm Ghanaian! And I love Music 🎶
+- 👨‍💻 [djoezeke.com]()
 - 📫 You can contact me at **sackeyetrue@gmail.com**
-- 🎈 Fun fact: *I love building things*
+- 🎈 Fun fact: _I love building things_
 
-<h2>📜 Resume & Additional Links</h2>
+## 📜 Resume & Additional Links
 
-<a href="http://">📄 Resume</a>
-<br>
-<a href="http://">🔗 Portfolio</a>
+📄 [Resume](djoezeke.com)
+👨‍💻 [djoezeke.com](https://djoezeke.com)
 
-<p>
-  Feel free to explore my repositories and reach out if you’d like to collaborate! 🚀
-</p>
+Feel free to explore my repositories and reach out if you’d like to collaborate! 🚀
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
