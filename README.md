@@ -227,11 +227,26 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
 ## 📈 GitHub Stats & History
 
 <a href="https://github.com/djoezeke">
-  <img height=200 align="center"
+  <img height="200px" align="center"  alt="djoezeke" width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djoezeke&theme=transparent" />
+</a>
+
+<a href="https://github.com/djoezeke">
+  <img height="200px" alt="djoezeke"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djoezeke&theme=transparent" />
+</a>
+
+<a href="https://github.com/djoezeke">
+  <img height="200px"  alt="djoezeke"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djoezeke&theme=transparent" />
+</a>
+
+<a href="https://github.com/djoezeke">
+  <img height="200px" align="center" alt="djoezeke"
     src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/djoezeke">
-  <img height=200 align="center"
+  <img height="200px" align="center" alt="djoezeke"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=300&hide_border=true&theme=transparent" />
 </a>
 
