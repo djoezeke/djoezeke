@@ -130,15 +130,6 @@ problem-solving, and algorithm design.
           <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
             alt="MySQL" height="50" />
         </a>
-        <a href="https://www.postgresql.org/" target="_blank">
-          <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"
-            alt="PostgreSQL" height="50" />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank">
-          <img style="margin: 5px"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-        </a>
         <a href="https://www.selenium.dev" target="_blank">
           <img style="margin: 5px"
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
