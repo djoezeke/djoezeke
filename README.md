@@ -32,28 +32,26 @@
 Welcome to my GitHub portfolio! Here, you'll find projects that showcase my skills in software development,
 problem-solving, and algorithm design.
 
-#### 👨🏻‍💻 About Me
-
-🎓**Education:** Computer Science Student at Accra Technical University
-🚀**Interests:** Game/Web Development, Algorithms, Open-Source Contributions
+Game/Web Development, Algorithms, Open-Source Contributions
 
 <img src='./assets/gif/monkeykidcoding.gif' align='left'>
 
-- 🏫 I'm a Computer Science Student at Accra Technical University
-- 🔭 I’m currently working on **Graphics Development**
+#### 👨🏻‍💻 About Me
+
+- 🎓 I'm a Computer Science Student at Accra Technical University
+- 🔭 I’m currently working on **Game Development**
 - I have a ❤️**love** relationship with **Programming**
 - 🌱 I’m currently Working with my self **OpenGL**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
-- 🏫 I'm a Computer Science Student at Accra Technical University
-- 🔭 I’m currently working on **Graphics Development**
-- I have a ❤️**love** relationship with **Programming**
-- 🌱 I’m currently Working with my self **OpenGL**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
-- 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
+- 🚀**Interests**:
+  - **Game Development**
+  - **Web Development**
+  - **Artificial Intelligence**
+  - **Graphics Development**
+  - **Software Development**
+- ⚡ Fun fact: I love to **Code** and **Build** things
 
 <hr>
 <!-- ------------------------------------------------------------------------------------------------------------ -->
@@ -218,7 +216,7 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
 ## 📈 GitHub Stats & History
 
 <a href="https://github.com/djoezeke">
-  <img height="200px" align="center"  alt="djoezeke" width="100%"
+  <img height="200px" align="center" alt="djoezeke" width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djoezeke&theme=transparent" />
 </a>
 
@@ -228,7 +226,7 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
 </a>
 
 <a href="https://github.com/djoezeke">
-  <img height="200px"  alt="djoezeke"
+  <img height="200px" alt="djoezeke"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djoezeke&theme=transparent" />
 </a>
 
