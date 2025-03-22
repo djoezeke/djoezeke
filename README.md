@@ -236,7 +236,7 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
 </a>
 <a href="https://github.com/djoezeke">
   <img height="200px" align="center" alt="djoezeke"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&card_width=300&hide_border=true&theme=transparent" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 </a>
 
 ### 🏆 GitHub Trophies
