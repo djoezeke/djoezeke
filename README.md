@@ -9,13 +9,14 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Software Engineer | 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)
-  </h2>
+
+## 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)
+
 </div>
 
 <div align="center">
   <a href="mailto:adjetey545@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0078D7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0078D7?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="djoezeke | G-Mail" />
   </a>
   <a href="https://instagram.com/djoezeke">
     <img
@@ -154,43 +155,37 @@
 
 ## 🔥 Languages and Tools
 
+<div>
+
 ### 🔥 Languages
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
 </div>
 
 ### 🔥 Frameworks & Libraries
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+</div>
+
+<div>
+
+### 🧰 Toolbox
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-### 🧰 Toolbox
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <h2 align="center">🔧 My Developer Workspace</h2>
@@ -202,8 +197,6 @@
   <img src="https://img.shields.io/badge/Terminal-0078D7?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/GitHub-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
-
-<br/>
 
 <br/>
 
@@ -298,14 +291,38 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
 <h2 align="center">🗂️ Featured Projects</h2>
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; width: 45%;">
-    <h3> CProfiler</h3>
-    <a href="https://github.com/djoezeke/cprofiler">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=djoezeke&repo=cprofiler&show_icons=true&theme=react&line_height=27&title_color=6aaff8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
-      alt="Cora" />
-    </a>
-  </div>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/djoezeke/cprofiler"><b>CProfiler</b></a> - Stack Profiler</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/djoezeke/cprofiler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/djoezeke/cprofiler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/djoezeke/cprofiler?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+	  <tr>
+      <td><a href="https://github.com/djoezeke/argparser"><b>ArgParser</b></a> - Argument Parser</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/djoezeke/argparser?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/djoezeke/argparser?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/djoezeke/argparser?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+    <tr>
+      <td><a href="https://github.com/djoezeke/clogger"><b>CLogger</b></a> - Logging Library</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/djoezeke/clogger?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/djoezeke/clogger?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/djoezeke/clogger?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+  </tbody>
+</table>
+</div>
 
 <br/>
 
