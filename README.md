@@ -61,8 +61,6 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
 
-  ⚡ Fun fact: **I bridge the gap between technical and non-technical stakeholders effortlessly. Adept at translating complex technical concepts into understandable language for diverse audiences**
-
 ---
 
 </div>
