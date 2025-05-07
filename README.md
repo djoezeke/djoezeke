@@ -2,13 +2,20 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora) </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hello%2C++I'm++Sackey+Ezekiel+Etrue+.%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%F0%9F%98%8A+You+can+call+me++%22Zeke+Cora%22.+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
 </div>
 
+<!-- Random Wallpaper -->
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/gavryl-by-your-side.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<!--END_SECTION:update_image-->
+
 <div align="center">
+
+<h1 align="center">👋Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora)</h1>
 
 ## 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)
 
@@ -43,6 +50,8 @@
 <div align="left">
   
   ---
+
+I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent, not defined by gender. And that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering kids and underrepresented groups to pursue careers in tech. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world.
 
 - 🎓 I'm a Computer Science Student at Accra Technical University
 - 🔭 I’m currently working on **Game Development**
@@ -266,12 +275,14 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
 </div>
 
-```
-C ------------- 16 hrs 03 mins : ███████████████████▓░░░░░░░░░░ 78.42 % 🔵
-C++ ----------- 03 hrs 58 mins : █████░░░░░░░░░░░░░░░░░░░░░░░░░ 19.42 % 🌊
-Python -------- 03 hrs 58 mins : █████░░░░░░░░░░░░░░░░░░░░░░░░░ 19.42 % 🚀
-HTML ---------- 00 hrs 11 mins : ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 00.91 % ☁️
-Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 00.38 % 💾
+```javascript
+const mySkills = {
+  languages: ["C", "C++", "Python", "HTML", "CSS", "GoDot"],
+  frameworks: ["Django", "Pyside"],
+  databases: ["MySQL", "Sqlite"],
+  tools: ["Git", "GitHub", "VSCode", "GoDot", "Docker"],
+  currentProjects: ["Protfolio (Personal)"],
+};
 ```
 
 <br/>
@@ -323,6 +334,8 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
   </tbody>
 </table>
 </div>
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
 <br/>
 
@@ -410,6 +423,8 @@ Javascript ---- 00 hrs 04 mins : ░░░░░░░░░░░░░░░�
   <img alt="Github Snake" width="100%"
     src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
+
+🌟 From [djoezeke](https://github.com/djoezeke)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
