@@ -4,13 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&size=30&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hello%2C++I'm++Sackey+Ezekiel+Etrue+.%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%F0%9F%98%8A+You+can+call+me++%22Zeke+Cora%22.+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
-</div>
-
 <!-- Random Wallpaper -->
 <!--START_SECTION:update_image-->
-
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-out-of-time.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 
 <div align="center">
