@@ -156,40 +156,69 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
   </table>
 </div>
 
-## 🔥 Languages and Tools
+## 🔥 Languages,Technologies and Tools
 
-<div>
+<table width="100%">
+  <tr>
+<td valign="top" width="50%">
+  <h6>👨‍💻 Programming and Markup Languages</h6>
 
-### 🔥 Languages
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- Web Development Essentials -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
+
+  <!-- Software Development Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
-</div>
+  <!-- Database Languages -->
+<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge">
 
-### 🔥 Frameworks & Libraries
+  <!-- Markup and Documentation -->
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+  <!-- Educational Programming -->
+<img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white&style=for-the-badge">
+</td>
+<td valign="top" width="50%">
+  <h6>🧰 Frameworks and Libraries</h6>
 
-</div>
+  <!-- CSS Frameworks and Preprocessors -->
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<div>
-
-### 🧰 Toolbox
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- Backend Frameworks -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  </td>
+  </tr>
+  <tr>
+     <td valign="top" width="50%">
+      <h6>🗃️ Databases and Backend Services</h6>
+      <!-- Relational Databases -->
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <!-- NoSQL Databases -->
+      <!-- Backend as a Service (BaaS) -->
+      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+      </td>
+   <td valign="top" width="50%">
+  <h6>🧰 Software and Tools</h6>
+  <!-- IDEs and Code Editors -->
+   <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" />
+   <!-- Development Environments -->
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-</div>
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</td>
+  </tr>
+</table>
+<div>
 
 <h2 align="center">🔧 My Developer Workspace</h2>
 
@@ -414,6 +443,7 @@ I’m looking forward to collaborating on projects that are at the intersection 
     srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+
   <img alt="Github Snake" width="100%"
     src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
