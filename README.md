@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:adjetey545@gmail.com">
+  <a href="mailto:sackeyetrue@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0078D7?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="djoezeke | G-Mail" />
   </a>
   <a href="https://instagram.com/djoezeke">
@@ -444,7 +444,7 @@ I’m looking forward to collaborating on projects that are at the intersection 
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 
-  <img alt="Github Snake" width="100%"
+<img alt="Github Snake" width="100%"
     src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
 
