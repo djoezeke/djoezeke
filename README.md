@@ -169,6 +169,8 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
 
   <!-- Software Development Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Database Languages -->
@@ -187,8 +189,12 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
   <!-- Backend Frameworks -->
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <!-- Python & C++ Frameworks/Libraries -->
+  <img src="https://img.shields.io/badge/PySide-41B4C2?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImGui-9C27B0?style=for-the-badge&logo=imgui&logoColor=white" />
   </td>
   </tr>
   <tr>
