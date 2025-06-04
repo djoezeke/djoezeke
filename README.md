@@ -154,69 +154,56 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 
 ## 🔥 Languages,Technologies and Tools
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
 <td valign="top" width="50%">
   <h6>👨‍💻 Programming and Markup Languages</h6>
 
   <!-- Web Development Essentials -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js," /><br>
 
   <!-- Software Development Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br>
 
-  <!-- Database Languages -->
-<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge">
-
-  <!-- Markup and Documentation -->
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-
-  <!-- Educational Programming -->
-<img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white&style=for-the-badge">
+  <!-- Other Languages -->
+  <img src="https://skillicons.dev/icons?i=markdown" /><br>
 </td>
 <td valign="top" width="50%">
   <h6>🧰 Frameworks and Libraries</h6>
 
-  <!-- CSS Frameworks and Preprocessors -->
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
+  <!-- Web & CSS Frameworks and Preprocessors -->
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,qt" /><br>
+  
   <!-- Backend Frameworks -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
   <!-- Python & C++ Frameworks/Libraries -->
-  <img src="https://img.shields.io/badge/PySide-41B4C2?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/ImGui-9C27B0?style=for-the-badge&logo=imgui&logoColor=white" />
+
   </td>
   </tr>
   <tr>
      <td valign="top" width="50%">
       <h6>🗃️ Databases and Backend Services</h6>
-      <!-- Relational Databases -->
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <!-- NoSQL Databases -->
-      <!-- Backend as a Service (BaaS) -->
-      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-      </td>
+
+<!-- Relational Databases -->
+      
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase" /><br>
+	     
+<!-- NoSQL Databases -->
+      
+<!-- Backend as a Service (BaaS) -->
+      
+   </td>
    <td valign="top" width="50%">
   <h6>🧰 Software and Tools</h6>
   <!-- IDEs and Code Editors -->
-   <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
   <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" />
-   <!-- Development Environments -->
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br>
+
+  <!-- Development Environments -->
+  <img src="https://skillicons.dev/icons?i=docker,vscode,chrome" /><br>
+  
   <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux" /><br>
 </td>
   </tr>
 </table>
