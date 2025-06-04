@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&size=30&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hello%2C++I'm++Sackey+Ezekiel+Etrue+.%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%F0%9F%98%8A+You+can+call+me++%22Zeke+Cora%22.+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
 <!-- Random Wallpaper -->
 <!--START_SECTION:update_image-->
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h1 align="center">👋Sackey Ezekiel Etrue (🏄‍♂️ Zeke Cora)</h1>
+![djoezeke](https://github-widgetbox.vercel.app/api/profile?username=djoezeke&data=followers,repositories,stars,commits&theme=darkmode)
 
 ## 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)
 
@@ -45,8 +45,6 @@
 <div align="center"> 👨🏻‍💻 About Me </div>
 <div align="left">
   
-  ---
-
 I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent, not defined by gender. And that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering kids and underrepresented groups to pursue careers in tech. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world.
 
 - 🎓 I'm a Computer Science Student at Accra Technical University
@@ -56,8 +54,6 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
-
----
 
 </div>
 
