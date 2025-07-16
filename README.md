@@ -368,6 +368,12 @@ I’m looking forward to collaborating on projects that are at the intersection 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=djoezeke&theme=react-dark&hide_border=true&color=00FFFF&line=0078D7&point=00FFFF" width="100%" alt="Activity Graph" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
 <h3 align="center">📊 Stats</h3>
 
 <!-- <a href="https://github.com/djoezeke">
