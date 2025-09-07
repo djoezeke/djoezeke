@@ -6,7 +6,7 @@
 
 <!-- Random Wallpaper -->
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/kvacm-synth-waterfall.png height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/mklgustafsson-the-girl-and-the-bear.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 
 <div align="center">
