@@ -2,16 +2,18 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </p>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+</h2>
 
 <!-- Random Wallpaper -->
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alx-sunset-over-palm-trees.png height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alx-sunset-over-palm-trees.png height=100% width=100% alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 
 <div align="center">
 
-![djoezeke](https://github-widgetbox.vercel.app/api/profile?username=djoezeke&data=followers,repositories,stars,commits&theme=darkmode)
+<!-- <img src="https://github-widgetbox.vercel.app/api/profile?username=djoezeke&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile SVG" width=100% /> -->
 
 ## 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)
 
@@ -42,9 +44,12 @@
       height="25" alt="djoezeke | Twitter" /> </a>
 </div>
 
-<div align="center"> 👨🏻‍💻 About Me </div>
-<div align="left">
-  
+<div align="center">
+  <h2> 👨🏻‍💻 About Me</h2>
+</div>
+
+<!-- <div align="left"> -->
+
 I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent, not defined by gender. And that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering kids and underrepresented groups to pursue careers in tech. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world.
 
 - 🎓 I'm a Computer Science Student at Accra Technical University
@@ -55,7 +60,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Maker** ,**Leader** and a **Coder**
 
-</div>
+<!-- </div> -->
 
 <br/>
 
@@ -160,20 +165,25 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
   <h6>👨‍💻 Programming and Markup Languages</h6>
 
   <!-- Web Development Essentials -->
-  <img src="https://skillicons.dev/icons?i=html,css,js," /><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js," /><br>
 
   <!-- Software Development Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python" /><br>
 
   <!-- Other Languages -->
-  <img src="https://skillicons.dev/icons?i=markdown" /><br>
+
+<img src="https://skillicons.dev/icons?i=markdown" /><br>
+
 </td>
 <td valign="top" width="50%">
   <h6>🧰 Frameworks and Libraries</h6>
 
   <!-- Web & CSS Frameworks and Preprocessors -->
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,qt" /><br>
-  
+
+<img src="https://skillicons.dev/icons?i=django,bootstrap,qt" /><br>
+
   <!-- Backend Frameworks -->
   <!-- Python & C++ Frameworks/Libraries -->
 
@@ -184,26 +194,30 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
       <h6>🗃️ Databases and Backend Services</h6>
 
 <!-- Relational Databases -->
-      
+
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase" /><br>
-	     
+
 <!-- NoSQL Databases -->
-      
+
 <!-- Backend as a Service (BaaS) -->
-      
+
    </td>
    <td valign="top" width="50%">
   <h6>🧰 Software and Tools</h6>
   <!-- IDEs and Code Editors -->
 
   <!-- Version Control -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br>
 
   <!-- Development Environments -->
-  <img src="https://skillicons.dev/icons?i=docker,vscode,chrome" /><br>
-  
+
+<img src="https://skillicons.dev/icons?i=docker,vscode,chrome" /><br>
+
   <!-- Operating Systems -->
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux" /><br>
+
+<img src="https://skillicons.dev/icons?i=windows,apple,linux" /><br>
+
 </td>
   </tr>
 </table>
@@ -364,36 +378,30 @@ I’m looking forward to collaborating on projects that are at the intersection 
 
 <h3 align="center">📈 Contribution Activity</h3>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djoezeke&theme=react-dark&hide_border=true&color=00FFFF&line=0078D7&point=00FFFF" width="100%" alt="Activity Graph" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=djoezeke&theme=react-dark&hide_border=true&color=00FFFF&line=0078D7&point=00FFFF" width="100%" alt="Activity Graph" />
 
 <h3 align="center">📊 Stats</h3>
 
 <!-- <a href="https://github.com/djoezeke">
-  <img height="200px" align="center" alt="djoezeke" width="100%"
+  <img height="200px" alt="djoezeke" width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djoezeke&theme=transparent" />
 </a> -->
 
+<!-- <div align="center" > -->
+
 <a href="https://github.com/djoezeke">
-  <img height="200px" align="center" alt="djoezeke"
+  <img height="200px" alt="djoezeke"
     src="https://github-readme-stats.vercel.app/api?username=djoezeke&hide_border=true&theme=transparent" />
 </a>
+
 <a href="https://github.com/djoezeke">
-  <img height="200px" align="center" alt="djoezeke"
+  <img height="200px" alt="djoezeke"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=djoezeke&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 </a>
+<!-- </div> -->
 
-<br/>
-
+<!--
 <h2 align="center">📝 Latest Blog Posts</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -424,27 +432,25 @@ I’m looking forward to collaborating on projects that are at the intersection 
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
+</div> -->
+<!-- <br/> -->
 
 ### 🏆 GitHub Trophies
 
-<img width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=1" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="Github Snake" width="100%" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/dist/github-contribution-grid-snake.svg" />
+</picture>
 
-<img alt="Github Snake" width="100%"
-    src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/pacman-contribution-graph.svg">
 </picture>
 
 🌟 From [djoezeke](https://github.com/djoezeke)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>

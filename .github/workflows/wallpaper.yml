@@ -1,9 +1,11 @@
 name: Update daily wallpaper
 
 on:
-  workflow_dispatch:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
 
 jobs:
   update-readme:
