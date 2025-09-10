@@ -440,15 +440,15 @@ I’m looking forward to collaborating on projects that are at the intersection 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=1" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/snake-output/github-contribution-grid-snake.svg" />
   <img alt="Github Snake" width="100%" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/djoezeke/djoezeke/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 🌟 From [djoezeke](https://github.com/djoezeke)
