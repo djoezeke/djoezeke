@@ -8,7 +8,7 @@
 
 <!-- Random Wallpaper -->
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/tacosauceninja-shadows-die-twice.png height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/sabbathbl00dysabbath-desert-synthwave-ai-landscape.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 
 <div align="center">
