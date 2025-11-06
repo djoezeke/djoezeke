@@ -1,10 +1,8 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 
-<h2 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
-</h2>
+</div>
 
 <!-- Random Wallpaper -->
 <!--START_SECTION:update_image-->
@@ -15,14 +13,14 @@
 
 <!-- <img src="https://github-widgetbox.vercel.app/api/profile?username=djoezeke&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile SVG" width=100% /> -->
 
-## 📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)
+<h2 align="center">📥 Computer Science Enthusiast (Developer/Creator/Achiever/Maker)</h3>
 
 </div>
 
 <div align="center">
-  <a href="mailto:sackeyetrue@gmail.com">
+  <!-- <a href="mailto:sackeyetrue@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0078D7?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="djoezeke | G-Mail" />
-  </a>
+  </a> -->
   <a href="https://instagram.com/djoezeke">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D62976&logoColor=white&labelColor=&style=for-the-badge"
@@ -157,7 +155,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
   </table>
 </div>
 
-## 🔥 Languages,Technologies and Tools
+<h3 align="center">🔥 Languages,Technologies and Tools</h3>
 
 <table width="100%" align="center">
   <tr>
@@ -223,7 +221,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 </table>
 <div>
 
-<h2 align="center">🔧 My Developer Workspace</h2>
+<!-- <h2 align="center">🔧 My Developer Workspace</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Asus-0078D7?style=for-the-badge&logo=window&logoColor=white" alt="Asus" />
@@ -231,9 +229,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
   <img src="https://img.shields.io/badge/Chrome-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome" />
   <img src="https://img.shields.io/badge/Terminal-0078D7?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/GitHub-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
-<br/>
+</div> -->
 
 <h2 align="center">⚡ Coding Journey Timeline</h2>
 
@@ -365,7 +361,7 @@ I’m looking forward to collaborating on projects that are at the intersection 
 
 <br/>
 
-<h2 align="center">🧠 Code Mindset</h2>
+<!-- <h2 align="center">🧠 Code Mindset</h2>
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; width: 80%; margin: 0 auto;">
   <blockquote style="border-left: 4px solid #0078D7; padding-left: 20px; margin: 0; font-style: italic;">
@@ -373,14 +369,17 @@ I’m looking forward to collaborating on projects that are at the intersection 
   </blockquote>
   <p>I build software that is robust, scalable, and engineered with excellence.</p>
 </div>
+ -->
 
 <h2 align="center">📊 GitHub Stats & History</h2>
 
 <h3 align="center">📈 Contribution Activity</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=djoezeke&theme=react-dark&hide_border=true&color=00FFFF&line=0078D7&point=00FFFF" width="100%" alt="Activity Graph" />
+<div align="center" >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djoezeke&theme=react-dark&hide_border=true&color=00FFFF&line=0078D7&point=00FFFF" width="70%" alt="Activity Graph" />
+</div>
 
-<h3 align="center">📊 Stats</h3>
+<h3 align="center">📊 Statistics</h3>
 
 <!-- <a href="https://github.com/djoezeke">
   <img height="200px" alt="djoezeke" width="100%"
@@ -435,15 +434,15 @@ I’m looking forward to collaborating on projects that are at the intersection 
 </div> -->
 <!-- <br/> -->
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=1" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=djoezeke&theme=radical&no-frame=false&no-bg=true&margin-w=1" /> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/snake-output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/snake-output/github-contribution-grid-snake.svg" />
   <img alt="Github Snake" width="100%" src="https://raw.githubusercontent.com/djoezeke/djoezeke/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djoezeke/djoezeke/pacman-output/pacman-contribution-graph-dark.svg">
